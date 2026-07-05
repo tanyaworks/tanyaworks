@@ -1,8 +1,6 @@
-![Banner](https://raw.githubusercontent.com/tanyaworks/tanyaworks/main/banner.png)
+### 👋 Hi, I'm Tanya
 
-I'm a passionate Software Engineer with a flair for crafting seamless web experiences. 
-Check out my portfolio here to see some of my most exciting projects.
+Passionate Software Engineer with a flair for crafting seamless web experiences.
 
-## Find me around the web 🌍:
-- Have a look at my portfolio: [Portfolio 💼](https://tanya-portfoliowebsite.netlify.app/)
-- Sharing updates on [LinkedIn 💼](https://www.linkedin.com/in/tanyajha12/)
+- 🔗 [Portfolio](https://tanya-portfoliowebsite.netlify.app/)
+- 📇 [LinkedIn](https://www.linkedin.com/in/tanyajha12/)
