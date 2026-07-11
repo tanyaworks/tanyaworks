@@ -1,7 +1,5 @@
 <p align="center">
-
-  <img src="./assets/banner.png" width="100%" alt="Banner" />
-
+  <img src="https://raw.githubusercontent.com/tanyaworks/tanyaworks/main/banner.png" width="100%" alt="Banner" />
 </p>
 ### 👋 Hi, I'm Tanya
 
