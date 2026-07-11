@@ -1,3 +1,8 @@
+<p align="center">
+
+  <img src="./assets/banner.png" width="100%" alt="Banner" />
+
+</p>
 ### 👋 Hi, I'm Tanya
 
 Passionate Software Engineer with a flair for crafting seamless web experiences.
